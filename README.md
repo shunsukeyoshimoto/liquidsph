@@ -6,7 +6,7 @@ Overview
 This porject is for learning how to implement Smoothed-particle hydrodynamics (SPH) for liquid simulation in C language. Let's fill in the code at TODO.
 
 ## Text
-[See here](https://github.com/yoshimoto56/liquidsph/blob/master/text/SPH_text.pdf)
+[See here](https://github.com/yoshimoto56/liquidsph/blob/master/text/sph_text.pdf)
 
 ## Demo
 [![Liquid SPH](https://img.youtube.com/vi/Qe9LbExZ1tc/0.jpg)](https://www.youtube.com/watch?v=Qe9LbExZ1tc "Liquid SPH")
